@@ -1,3 +1,6 @@
+# PHPUnit cache
+.phpunit.result.cache
+
 # Log files
 *.log
 
