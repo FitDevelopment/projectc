@@ -1,0 +1,19 @@
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Composer
+vendor/
+
+# Node modules
+node_modules/
+
+# Docker
+docker-compose.override.yml
+.env
+
+# PHPStorm
+.idea/
