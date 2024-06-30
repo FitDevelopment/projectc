@@ -20,3 +20,5 @@ docker-compose.override.yml
 
 # PHPStorm
 .idea/
+
+* text=auto
